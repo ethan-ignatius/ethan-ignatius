@@ -10,7 +10,7 @@ I have previous experience:
 
 🧑‍💻 As an iOS Engineer at Georgia Tech iOS Club
 
-💻 Various programming projects including mobile apps, AI, and machine learning
+💻 Various programming projects including innovative mobile apps in health, social and gaming, AI navigation tech, and machine learning
 
 🌱 I am currently learning or have experience in:  Java, Python, TypeScript, JavaScript, Swift, C++, SQL, NoSQL, Assembly
 
