@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Mobile%20Engineering-111827?style=for-the-badge" />
 </p>
 
-Computer Science student at Georgia Tech (Dec 2026) focused on **AI/ML systems, scalable backend infrastructure, and production-grade mobile products**.
+Computer Science student at Georgia Tech (May 2027) focused on **AI/ML systems, scalable backend infrastructure, and production-grade mobile/web products**.
 
 I build GPU-powered AI platforms, high-throughput data systems, and user-facing applications that ship.
 
