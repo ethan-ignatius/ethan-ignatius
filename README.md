@@ -19,10 +19,9 @@ I build scalable systems, production ML pipelines, and products that ship.
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
 
-### 🎬 [Netflix × Letterboxd](https://github.com/ethan-ignatius/netflix-letterboxd) (In Progress)
-
-Building a social movie discovery platform focused on personalized ranking and recommendation systems.  
-Architecting scalable backend services and data models to support engagement-driven personalization.
+### 🎬 [Netflix × Letterboxd Overlay](https://github.com/ethan-ignatius/netflix-letterboxd)
+Building a Manifest V3 Chrome extension that adds a personalized film overlay to netflix.com title cards.  
+Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization from Letterboxd export data.
 
 ---
 
