@@ -1,50 +1,55 @@
-<h1 align="left">👋 Hey, I'm Ethan Ignatius</h1>
+<h1 align="left">👋 Ethan Ignatius</h1>
 
 <p align="left">
   <img src="https://img.shields.io/badge/CS%20@%20Georgia%20Tech-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/May%202027-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Infrastructure-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Infra-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML%20Systems-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product-111827?style=for-the-badge" />
 </p>
 
-Excited about AI infra, ML systems, and user-focused design.  
-I build scalable systems, production ML pipelines, and products that ship.
+<sub>
+Excited about AI infra, distributed ML systems, and user-focused design.  
+I build scalable systems and products that ship.
+</sub>
 
 ---
 
-## Current Work
+## 🚀 Current Work
 
-### 🧠 NVIDIA AI Makerspace Nexus  
-Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
-Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
+### NVIDIA AI Makerspace Nexus  
+<sub>
+GPU-accelerated AI platform built with NVIDIA + Georgia Tech PACE.  
+RAG pipelines • model routing • evaluation infra • multi-GPU backends.
+</sub>
 
-### 🎬 [Netflix × Letterboxd Overlay](https://github.com/ethan-ignatius/netflix-letterboxd)
-Building a Manifest V3 Chrome extension that adds a personalized film overlay to netflix.com title cards.  
-Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization from Letterboxd export data.
+### <a href="https://github.com/ethan-ignatius/netflix-letterboxd">Netflix × Letterboxd Overlay</a>  
+<sub>
+Manifest V3 Chrome extension injecting personalized film overlays into netflix.com.  
+Shadow DOM UI • TMDb resolution + caching • local personalization.
+</sub>
 
 ---
 
-## Experience
+## 🧠 Experience
 
-### Richardson Wealth Ltd.  
-Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
+### Richardson Wealth  
+<sub>Production Python + SQL + Airflow pipelines powering AI-sector portfolio decisions.</sub>
 
 ### Serious Games Research Group  
-Developed ML-integrated backend systems and analytics pipelines for AI-enhanced VR research environments.
+<sub>ML-integrated backend systems for AI-enhanced VR research environments.</sub>
 
-### GT iOS Club — Senior Mobile Developer  
-Led architecture and shipped Nomad (100+ active users), building real-time collaboration systems and offline-first synchronization infrastructure.
+### GT iOS Club — Senior Developer  
+<sub>Led architecture for Nomad (100+ users), real-time sync + offline-first systems.</sub>
 
 ### Big Data Big Impact  
-Led development of a full-stack data platform used by 200+ students.
+<sub>Built full-stack data platform serving 200+ students.</sub>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Languages
-
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=white" />
@@ -55,8 +60,7 @@ Led development of a full-stack data platform used by 200+ students.
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-## Frameworks & Tools
-
+### Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white" />
@@ -70,5 +74,7 @@ Led development of a full-stack data platform used by 200+ students.
 
 ---
 
-LinkedIn: https://linkedin.com/in/ethan-ign  
+<sub>
+LinkedIn: linkedin.com/in/ethan-ign  
 Email: ethanignatius111@gmail.com
+</sub>
