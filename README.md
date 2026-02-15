@@ -15,14 +15,11 @@ I build scalable systems, production ML pipelines, and products that ship.
 
 ## Current Work
 
-### NVIDIA AI Makerspace Nexus  
+### 🧠 NVIDIA AI Makerspace Nexus  
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
 
-### Netflix × Letterboxd (In Progress)  
-<a href="https://github.com/ethan-ignatius/netflix-letterboxd-project">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/>
-</a>
+### 🎬 [Netflix × Letterboxd](https://github.com/ethan-ignatius/netflix-letterboxd-project) (In Progress)
 
 Building a social movie discovery platform focused on personalized ranking and recommendation systems.  
 Architecting scalable backend services and data models to support engagement-driven personalization.
