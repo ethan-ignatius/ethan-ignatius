@@ -21,34 +21,6 @@ Working on RAG architectures, model routing, evaluation infrastructure, and mult
 
 ---
 
-# Selected Projects
-
-<p align="center">
-
-<a href="https://github.com/ethan-ignatius/Climbr">
-  <img src="https://opengraph.githubassets.com/1/ethan-ignatius/Climbr" width="45%" />
-</a>
-
-<a href="https://github.com/ethan-ignatius/Nomad">
-  <img src="https://opengraph.githubassets.com/1/ethan-ignatius/Nomad" width="45%" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/ethan-ignatius/project-guideline">
-  <img src="https://opengraph.githubassets.com/1/ethan-ignatius/project-guideline" width="45%" />
-</a>
-
-<a href="https://opengraph.githubassets.com/1/ethan-ignatius/mactrack">
-  <img src="https://opengraph.githubassets.com/1/ethan-ignatius/mactrack" width="45%" />
-</a>
-
-</p>
-
----
-
 ## Experience
 
 ### Richardson Wealth Ltd.  
