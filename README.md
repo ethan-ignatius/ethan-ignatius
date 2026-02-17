@@ -15,7 +15,7 @@ I build scalable systems, production ML pipelines, and products that ship.
 
 ## Current Work
 
-#### 🧠 NVIDIA AI Makerspace Nexus  
+### 🧠 NVIDIA AI Makerspace Nexus  
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
 
@@ -27,23 +27,23 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
 
 ## Experience
 
-#### Richardson Wealth Ltd.
+### Richardson Wealth Ltd.
 - Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
 
-#### Serious Games Research Group 
+### Serious Games Research Group 
 - Developed ML-integrated backend systems and analytics pipelines for AI-enhanced VR research environments.
 
-#### GT iOS Club — Senior Mobile Developer 
+### GT iOS Club — Senior Mobile Developer 
 - Led architecture and shipped Nomad (100+ active users), building real-time collaboration systems and offline-first synchronization infrastructure.
 
-#### Big Data Big Impact 
+### Big Data Big Impact 
 - Led development of a full-stack data platform used by 200+ students.
 
 ---
 
 ## 🛠 Tech Stack
 
-#### Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
@@ -55,7 +55,7 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-#### Frameworks & Tools
+### Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white" />
