@@ -27,17 +27,13 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
 
 ## Experience
 
-### Richardson Wealth Ltd.  
-Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
+Richardson Wealth Ltd. - Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
 
-### Serious Games Research Group  
-Developed ML-integrated backend systems and analytics pipelines for AI-enhanced VR research environments.
+Serious Games Research Group - Developed ML-integrated backend systems and analytics pipelines for AI-enhanced VR research environments.
 
-### GT iOS Club — Senior Mobile Developer  
-Led architecture and shipped Nomad (100+ active users), building real-time collaboration systems and offline-first synchronization infrastructure.
+GT iOS Club — Senior Mobile Developer - Led architecture and shipped Nomad (100+ active users), building real-time collaboration systems and offline-first synchronization infrastructure.
 
-### Big Data Big Impact  
-Led development of a full-stack data platform used by 200+ students.
+Big Data Big Impact - Led development of a full-stack data platform used by 200+ students.
 
 ---
 
