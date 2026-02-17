@@ -13,7 +13,7 @@ I build scalable systems, production ML pipelines, and products that ship.
 
 ---
 
-### Current Work
+## Current Work
 
 #### 🧠 NVIDIA AI Makerspace Nexus  
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
@@ -25,7 +25,7 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
 
 ---
 
-### Experience
+## Experience
 
 #### Richardson Wealth Ltd.
 - Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
@@ -41,7 +41,7 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 #### Languages
 
