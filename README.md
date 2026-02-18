@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/AI%20Infrastructure-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML%20Systems-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Systems-111827?style=for-the-badge" />
 </p>
 
 Excited about AI infra, ML/data systems, and user-focused design.  
