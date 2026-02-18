@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
 </p>
 
-Excited about AI infra, ML systems, and user-focused design.  
-I build scalable systems, production ML pipelines, and products that ship.
+Excited about AI infra, ML/data systems, and user-focused design.  
+I build scalable systems, production data pipelines, and products that ship.
 
 ---
 
