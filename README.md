@@ -23,7 +23,7 @@ Working on RAG architectures, model routing, evaluation infrastructure, and mult
 ### 🎬 [Netflix × Letterboxd Overlay](https://github.com/ethan-ignatius/netflix-letterboxd)
 An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
 
-### 🏋️‍♂️ [GymBuddy: Wearable AI Gym Companion](https://github.com/ethan-ignatius/gymbuddy)
+### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
 Building a Manifest V3 Chrome extension that adds a personalized film overlay to netflix.com title cards.  
 Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization from Letterboxd export data.
 
