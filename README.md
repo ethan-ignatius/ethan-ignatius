@@ -26,6 +26,7 @@ Shadow DOM UI injection, TMDb title resolution + caching, and on-device personal
 
 ### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
 An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
+
 ---
 
 ## Experience
