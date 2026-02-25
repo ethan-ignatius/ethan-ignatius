@@ -20,9 +20,8 @@ I build scalable systems, production data pipelines, and products that ship.
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
 
-### 🎬 [Netflix × Letterboxd Overlay](https://github.com/ethan-ignatius/netflix-letterboxd)
-Building a Manifest V3 Chrome extension that adds a personalized film overlay to netflix.com title cards.  
-Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization from Letterboxd export data.
+### 🎬 [Netflix Enhanced Overlay](https://github.com/ethan-ignatius/netflix-enhanced)
+Building a Manifest V3 Chrome extension that adds a personalized, Letterboxd-powered overlay and scene-level X-Ray to Netflix title cards. Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization from Letterboxd export data.
 
 ### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
 An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
