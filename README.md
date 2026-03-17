@@ -26,24 +26,6 @@ Building a Manifest V3 Chrome extension that adds a personalized, Letterboxd-pow
 ### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
 An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
 
----
-
-## Experience
-
-### Richardson Wealth Ltd.
-- Built production Python + SQL + Airflow pipelines powering live AI-sector portfolio decisions.
-
-### Serious Games Research Group 
-- Developed ML-integrated backend systems and analytics pipelines for AI-enhanced VR research environments.
-
-### GT iOS Club — Senior Mobile Developer 
-- Led architecture and shipped Nomad (100+ active users), building real-time collaboration systems and offline-first synchronization infrastructure.
-
-### Big Data Big Impact 
-- Led development of a full-stack data platform used by 200+ students.
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
