@@ -14,18 +14,6 @@ I build scalable systems, production data pipelines, and products that ship.
 
 ---
 
-## Current Work
-
-### 🧠 NVIDIA AI Makerspace Nexus  
-Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
-Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
-
-### 🎬 [Netflix Enhanced Overlay](https://github.com/ethan-ignatius/netflix-enhanced)
-Building a Manifest V3 Chrome extension that adds a personalized, Letterboxd-powered overlay and reaction graphs that allow users to react with emojis and see them graphed over the timeline. Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization.
-
-### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
-An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
-
 ## 🛠 Tech Stack
 
 ### Languages
