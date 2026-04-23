@@ -10,7 +10,7 @@
 </p>
 
 Excited about AI infra, ML/data systems, and user-focused design.  
-I build scalable systems, production data pipelines, and products that ship.
+I build scalable systems and products that ship.
 ---
 
 ## Current Work
