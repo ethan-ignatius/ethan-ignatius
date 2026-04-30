@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/CS%20@%20Georgia%20Tech-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/May%202027-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Infra-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ML%20Systems-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
