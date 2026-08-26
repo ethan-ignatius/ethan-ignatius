@@ -14,6 +14,9 @@ I build scalable systems and products that ship.
 
 ## Current Work
 
+### ᯤ [Ditto](ditto.com)
+Interning at Ditto, building the only offline-first database with built-in peer-to-peer networking
+
 ### 🧠 NVIDIA AI Makerspace Nexus  
 Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI platform serving 5,000+ users.  
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
