@@ -14,7 +14,7 @@ I build scalable systems and products that ship.
 
 ## Current Work
 
-### ᯤ [Ditto](ditto.com)
+### ᯤ [Ditto](https://ditto.com)
 Interning at Ditto, building the only offline-first database with built-in peer-to-peer networking
 
 ### 🧠 NVIDIA AI Makerspace Nexus  
