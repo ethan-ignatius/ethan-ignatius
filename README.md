@@ -22,7 +22,7 @@ Co-building with NVIDIA and Georgia Tech’s PACE cluster a GPU-accelerated AI p
 Working on RAG architectures, model routing, evaluation infrastructure, and multi-GPU backend systems.
 
 ### 🎬 [Tabula: Multi-agent Retail Intelligence Platform](https://github.com/ethan-ignatius/tabula)
-Building a Manifest V3 Chrome extension that adds a personalized, Letterboxd-powered overlay and reaction graphs that allow users to react with emojis and see them graphed over the timeline. Shadow DOM UI injection, TMDb title resolution + caching, and on-device personalization.
+Tabula is an AI-powered back office for small retail stores. It watches your inventory, tracks supplier prices, monitors demand trends, and tells you what to restock and when, so you can make smarter buying decisions without needing a full operations team.
 
 ### 🏋️‍♂️ [GymBuddy: Wearable AI Fitness Companion](https://github.com/ethan-ignatius/gymbuddy)
 An AI-powered, AR-enhanced, computer-vision gym companion that schedules your workouts, corrects your form in real time, and texts you when it’s time to train.
